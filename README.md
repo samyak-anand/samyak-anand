@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Samyak Anand</h1>
-<h3 align="center">Data analyst and aspiring data scientist with a proven track record in master data management, employing advanced statistical and machine learning techniques to optimize data quality and drive actionable insights for business success.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyak-anand&label=Profile%20views&color=0e75b6&style=flat" alt="samyak-anand" /> </p>
+Aspiring Data Scientist:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyak-anand" alt="samyak-anand" /></a> </p>
+Data analyst with a strong foundation in data management and analysis, seeking to expand expertise in data science techniques.
+Eager to leverage data science skills to tackle complex business challenges and develop innovative solutions.
+Proficient in utilizing tools like Microsoft SQL, Power BI ,SAP BI  and Genesys GCXI for data analysis and reporting
 
-- 🔭 I’m currently working on **Real-time streaming**
+- 
 
-- 🌱 I’m currently learning **Kafka, Hadoop,Sparks**
+- 🔭 I’m currently working on **Real-time streaming, Development of ETL Pileline**
+
+- 🌱 I’m currently learning **Kafka, Hadoop, Sparks**
 
 - 📫 How to reach me **samyak.anand@gmail.com**
 
