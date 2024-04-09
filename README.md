@@ -5,7 +5,7 @@ Highlight problem-solving:
 An experienced data analyst with a passion for data science, I utilize advanced techniques to clean and analyze data, transforming it into actionable business solutions.
 Emphasize career goals:
 As a data analyst with a strong foundation in data management, I'm actively expanding my skillset in machine learning to become a data scientist and deliver impactful insights for business success.
-
+### Stats
 <!--
 **samyak-anand/samyak-anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
