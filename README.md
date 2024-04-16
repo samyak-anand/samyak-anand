@@ -12,7 +12,7 @@ Proficient in utilizing tools like Microsoft SQL, Power BI ,SAP BI  and Genesys 
 
 - 🌱 I’m currently learning **Kafka, Hadoop, Sparks, Airflow, Python, Big Data, Machine Learning, CNNs**
 
-- 📫 How to reach me **samyak.anand@gmail.com**
+- 📫 How to reach me **Contact:www.linkedin.com/in/samyak-anand-496a1143**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
