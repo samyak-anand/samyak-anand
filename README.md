@@ -10,7 +10,7 @@ Proficient in utilizing tools like Microsoft SQL, Power BI ,SAP BI  and Genesys 
 
 - 🔭 I’m currently working on **Real-time streaming, Development of ETL Pileline**
 
-- 🌱 I’m currently learning **Kafka, Hadoop, Sparks**
+- 🌱 I’m currently learning **Kafka, Hadoop, Sparks, Airflow, Python, Big Data, Machine Learning, CNNs**
 
 - 📫 How to reach me **samyak.anand@gmail.com**
 
