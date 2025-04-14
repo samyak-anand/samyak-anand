@@ -1,4 +1,5 @@
-<h1 align="center">Hi ??, I'm Samyak Anand</h1>
+<h1 align="center">Hi 
+I'm Samyak Anand</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyak-anand&label=Profile%20views&color=0e75b6&style=flat" alt="samyak-anand" /> </p>
 Aspiring Data Scientist:
 
