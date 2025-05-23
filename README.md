@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Samyak Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyak-anand&label=Profile%20views&color=0e75b6&style=flat" alt="samyak-anand" /> </p>
@@ -5,6 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyak-anand" alt="samyak-anand" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on Enhancing Stock Price Prediction using FinBERT and LSTMon [FinBERT](https://github.com/samyak-anand/Master_Thesis_Enhancing_Stock_Price_Prediction_FinBERT)
+
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/samyak_anand](https://www.datascienceportfol.io/samyak_anand)
+
+- 📝 I regularly write articles on [https://medium.com/@samyak.anand](https://medium.com/@samyak.anand)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
