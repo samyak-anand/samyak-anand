@@ -116,17 +116,7 @@ Currently building ML models, NLP pipelines, and data architectures while target
 
 <!-- Detailed activity breakdown: commits, PRs, issues, code review -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyak-anand&theme=github_dark" width="95%"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samyak-anand&theme=github_dark" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samyak-anand&theme=github_dark&utcOffset=1" height="150"/>
-</p>
-
-<!-- Contribution activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samyak-anand&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
