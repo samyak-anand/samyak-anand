@@ -101,11 +101,32 @@ Currently building ML models, NLP pipelines, and data architectures while target
 
 ---
 
-## GitHub Stats
+## GitHub Activity
+
+<!-- Stats + Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samyak-anand&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-anand&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+</p>
+
+<!-- Streak — shows push/commit streak and total contributions -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samyak-anand&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+</p>
+
+<!-- Detailed activity breakdown: commits, PRs, issues, code review -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyak-anand&theme=github_dark" width="95%"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samyak-anand&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-anand&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samyak-anand&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samyak-anand&theme=github_dark&utcOffset=1" height="150"/>
+</p>
+
+<!-- Contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samyak-anand&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
